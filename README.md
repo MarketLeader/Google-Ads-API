@@ -3,7 +3,7 @@
 
 Sesi ini adalah sesi ketiga publikasi [**Tim Chetabahana**](https://github.com/chetabahana) dari sesi utama yaitu: [_Toko-Chetabahana_](https://github.com/MarketLeader/Toko-Chetabahana) kelanjutan sesi pertama yaitu [ Google-Sites-API ](https://github.com/MarketLeader/Google-Sites-API) dan kedua yaitu [ Google-Content-API ](https://github.com/MarketLeader/Google-Content-API).
 
-Di sesi ini kami akan publikasikan cara untuk ambil produk yang mempunyai hasil dan [_peluang terbaik_](https://support.google.com/merchants/answer/7228489?hl=id) via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
+Di sesi ini kami akan publikasikan cara untuk menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
 
 ## Pilosopi
 Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
