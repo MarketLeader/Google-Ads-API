@@ -1,3 +1,11 @@
+<p align="center"> 
+<a href="https://github.com/MarketLeader/Toko-Chetabahana">
+<img src="https://chetabahana.files.wordpress.com/2018/04/logoweb.png" alt="Chetabahana.com | Situs Belanja Jual-Beli Barang & Promo Aneka Produk Fashion, Busana Muslim, Bayi & Anak-anak, Kecantikan, Tas, Sepatu, Peralatan Rumah Tangga, Elektronik, Makanan & Minuman Kemasan, dll. Soon The E-Shop Market Leader Will Be Owned Here!"><br />
+WE ARE GOING TO WIN THE MARKET!
+</a><br /><br />
+</p>
+
+
 # Google-AdWords-API
 :hand: Selamat datang di [Halaman Project](https://github.com/MarketLeader) untuk sesi [**Google AdWords API**](https://github.com/MarketLeader/Google-AdWords-API).
 
@@ -55,4 +63,3 @@ Met menyimak.. :pray:
 SALAM Sukses!  
 :copyright: [**Tim Chetabahana**](https://github.com/chetabahana)  
 [![profile for Chetabahana on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackoverflow.com/users/4058484/chetabahana?tab=profile)   
-[*WE ARE GOING TO WIN THE MARKET!*](https://github.com/MarketLeader/Toko-Chetabahana)
