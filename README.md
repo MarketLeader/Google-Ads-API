@@ -14,20 +14,19 @@ Sesi ini adalah sesi ketiga publikasi [**Tim Chetabahana**](https://github.com/c
 Di sesi ini kami akan publikasikan cara untuk menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
 
 ## Pilosopi
-Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
-- Jalankan [Iklan Shopping di AdWords](https://chetabahana.wordpress.com/google-shopping/) untuk dapat data [_produk yang di rekomendasikan_](https://support.google.com/merchants/answer/6288242) via [Google Merchant](https://support.google.com/merchants/answer/188493).  
-- Kemudian kita saring [produk dropship](https://chetabahana.com/product?p=1&c=0&l=60) dari [_daftar barang toko_](https://chetabahana.com/sitemap.xml) yang memenuhi kriteria via [Google AppEngine](https://cloud.google.com/appengine/).  
-- Hasilnya kita masukkan ke [Google Merchant](https://www.google.com/retail/solutions/merchant-center/) sehingga [_tersimpan menjadi database_](https://support.google.com/merchants/answer/7052112) via [Google Content API](https://developers.google.com/shopping-content/v2/quickstart).  
-- Dari database ini kita ambil produk yang mempunyai hasil dan [_peluang terbaik_](https://support.google.com/merchants/answer/7228489?hl=id) via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).  
-- Selanjutnya kita tampilkan produknya di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide).
+Pilosofi utamanya adalah optimasi produk secara respon:
+- Kualitas umpan data, pengelompokan, prioritas
+- Wawasan Lelang, Simulator tawaran, Strategi bidding, Smart bidding
+- Kekokohan kombinasi antara struktur dan strategi 
+- Membedakan tawaran berdasarkan pemirsa
+- Mengukur konversi, meninjau metrik, kara kunci negatif,
 
 ## Manfaat
-Manfaat yang bisa diperoleh adalah sbb:
-- Menampilkan produk unggulan secara dinamis sesuai [Trend](https://support.google.com/adwords/answer/6325039?hl=id) dan [Rekomendasi](https://support.google.com/adwords/answer/3448398) di [Google AdWords](https://adwords.google.com/).
-- Tidak memerlukan database karena bisa [_akses dan pakai data_](https://developers.google.com/shopping-content/v2/making-requests) yg sudah dimasukkan di Google Merchant
-- Tidak perlukan hosting berbayar karena [Google Site](http://sites.google.com/) adalah Free dan [AppEngine](https://cloud.google.com/appengine/) bisa [_dijalankan secara gratis_](https://stackoverflow.com/questions/18101642/appengine-limit-the-number-of-instances/26654430#26654430).
-- Bisa [_jalankan SEO_](https://developers.google.com/search/) untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://toko.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
-- Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
+- Meningkatkan peluang penelusuran
+- Mengoptimalkan biaya iklan
+- Efisiensi sales return
+- Kemandirian strategi
+- Kesinambungan
 
 ## Struktur
 Proses diatur dengan alur sbb:
