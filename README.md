@@ -21,7 +21,7 @@ Pilosofi utamanya adalah optimasi produk secara respon:
 - Membedakan tawaran berdasarkan pemirsa
 - Mengukur konversi, meninjau metrik, kara kunci negatif,
 <p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39100968-e45f8ba2-46bc-11e8-8bdb-12b7470f251f.jpg"></a>Gambar-1: Contoh Analisa <a href=https://chetabahana.com>Chetabahana</a> dalam kompetisi Tayang Iklan Shopping di Google Adwords
+<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39100968-e45f8ba2-46bc-11e8-8bdb-12b7470f251f.jpg"></a>Gambar-1: Contoh Analisa <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi Tayang Iklan Shopping di Google Adwords
 </p>
 
 ## Manfaat
