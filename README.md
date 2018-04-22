@@ -42,8 +42,16 @@ Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
 - Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
 - Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
 
+## License
+Project ini dipublikasikan dengan lisensi berikut:  
+[Apache License 2.0](https://github.com/MarketLeader/Toko-Chetabahana/blob/master/LICENSE)
+
 ## Pustaka
-Disarankan untuk disimak sebelum melangkah lebih jauh:
+<p align="center"> 
+<a href="https://chetabahana.com/"><img src="https://user-images.githubusercontent.com/36441664/38942532-44c87736-4359-11e8-9ad4-56f7d2b68ced.png" alt="Alokasi Pustaka Online Chetabahana"></a>Gambar-2: Alokasi Pustaka Online <a href=https://chetabahana.com>Chetabahana</a>
+</p>
+
+Disarankan untuk disimak sebelum melangkah lebih jauh:  
 - [Cara Buka Toko Online WinMarket dan Optimasi Internal](https://chetabahana.blogspot.com/)
 - [Cara Optimasi Eksternal Toko dengan Shop SEO](https://chetabahana.wordpress.com/)
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
@@ -51,7 +59,7 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 
 ## Penutup
 Berikut ini beberapa catatan sebagai penutup:  
-- Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s) 🇮🇩
+- Projek ini diprioriostaskan bagi peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s) 🇮🇩
 - Status masih pengembangan dan pengetesan implementasi
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
