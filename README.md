@@ -16,7 +16,7 @@ Di sesi ini kami akan publikasikan cara untuk menyaring data dari proses ke-1 da
 ## Pilosopi
 Pilosofi utamanya adalah optimasi iklan produk berdasarkan respon dari hal berikut:
 - Wawasan lelang, simulator tawaran, strategi bidding, dan smart bidding.
-- Kualitas umpan data, pengelompokan, prioritas, metode penayangan.
+- Kualitas umpan data, pengelompokan, prioritas, [metode penayangan](https://support.google.com/adwords/answer/2404248?hl=id).
 - Mengukur konversi, meninjau metrik, kara kunci negatif.
 - Kekokohan kombinasi antara struktur dan strategi.
 - Membedakan tawaran berdasarkan pemirsa.
