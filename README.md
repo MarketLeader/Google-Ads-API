@@ -14,12 +14,12 @@ Sesi ini adalah sesi ketiga publikasi [**Tim Chetabahana**](https://github.com/c
 Di sesi ini kami akan publikasikan cara untuk menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).
 
 ## Pilosopi
-Pilosofi utamanya adalah optimasi produk secara respon:
-- Kualitas umpan data, pengelompokan, prioritas
-- Wawasan Lelang, Simulator tawaran, Strategi bidding, Smart bidding
-- Kekokohan kombinasi antara struktur dan strategi 
-- Membedakan tawaran berdasarkan pemirsa
-- Mengukur konversi, meninjau metrik, kara kunci negatif,
+Pilosofi utamanya adalah optimasi iklan produk berdasarkan respon dari hal berikut:
+- Wawasan lelang, simulator tawaran, strategi bidding, dan smart bidding.
+- Kualitas umpan data, pengelompokan, prioritas, metode penayangan.
+- Mengukur konversi, meninjau metrik, kara kunci negatif.
+- Kekokohan kombinasi antara struktur dan strategi.
+- Membedakan tawaran berdasarkan pemirsa.
 
 ## Manfaat
 - Meningkatkan peluang penelusuran
