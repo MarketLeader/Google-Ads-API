@@ -35,7 +35,7 @@ Proses diatur dengan alur sbb:
 - Proses ke-3: Proses kelola atribut.
 - Proses ke-4: Proses simpan atribut.
 <p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=harga&group=393"><img src="https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png"></a>Gambar-1: Contoh tampilan <a href=https://chetabahana.com>Chetabahana</a> di Iklan Shopping dari Google AdWords
+<a href="https://chetabahana.com/product?l=60&o=harga&group=393"><img src="https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png" alt="iklan jual sepatu murah dari Chetabahana.com"></a>Gambar-1: Contoh tampilan <a href="https://chetabahana.com/product?l=60&o=harga&group=393">produk sepatu dari Chetabahana.com</a> di Iklan Belanja dari Google AdWords
 </p>
 
 ## Struktur
