@@ -20,10 +20,6 @@ Pilosofi utamanya adalah optimasi produk secara respon:
 - Kekokohan kombinasi antara struktur dan strategi 
 - Membedakan tawaran berdasarkan pemirsa
 - Mengukur konversi, meninjau metrik, kara kunci negatif,
-<p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39100968-e45f8ba2-46bc-11e8-8bdb-12b7470f251f.jpg"></a>Gambar-1: Contoh Analisa <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi Tayang Iklan Shopping di Google Adwords
-</p>
-
 ## Manfaat
 - Meningkatkan peluang penelusuran
 - Mengoptimalkan biaya iklan
@@ -31,12 +27,32 @@ Pilosofi utamanya adalah optimasi produk secara respon:
 - Kemandirian strategi
 - Kesinambungan
 
-## Struktur
+## Proses
 Proses diatur dengan alur sbb:
 - Proses ke-1: Proses ahir data.
 - Proses ke-2: Proses akses akun. 
 - Proses ke-3: Proses kelola atribut.
 - Proses ke-4: Proses simpan atribut.
+<p align="center"> 
+<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39100968-e45f8ba2-46bc-11e8-8bdb-12b7470f251f.jpg"></a>Gambar-1: Contoh Analisa <a href=https://chetabahana.com>Toko Chetabahana</a> dalam kompetisi Tayang Iklan Shopping di Google Adwords
+</p>
+
+## Struktur
+Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
+```
+Proses ke-4: Proses simpan atribut (Top_dir)
+|-----README.md (yg sedang ada baca)
+|-----Proses ke-3: Proses kelola atribut
+      |----README.md
+      |----Proses ke-2: Proses akses akun
+           |----README.md
+      |----Proses ke-1: Proses ahir data
+           |----README.md
+```
+- [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
+- [Proses ke-2](https://github.com/MarketLeader/Google-Content-API#google-content-api): Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
+- [Proses ke-3](https://github.com/MarketLeader/Google-AdWords-API#google-adwords-api): Mulai dari akses ke database produk, kinerja penjualan sampai optimasi setelan promosi.
+- [Proses ke-4](#proses): Mengatur konfigurasi, penjadwalan, lalu-lintas data, dan analisa hasil dari semua proses.
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
